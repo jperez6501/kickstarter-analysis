@@ -12,6 +12,7 @@
 ### A limitation to the data is that we are looking at an overwhelming amount of theatre kickstarter projects so it is difficult to focus on more information. We are getting plays as a category but within plays, there is several categories. It might be helpful to break up the subcategory even further and looking at genres and seeing if certain genres see more success than others. Another limitation that we have, is that we look at launch dates and some months having more theatre kickstarters launching than others, it would be helpful to have some background on why that is. 
 #### An alternative graph that can be created are looking at percentage of successful theatre kickstarters based on the launch date. This would take into account the number of kickstarters launched by month and give us a better idea of what month is best to launch a kickstarter based on the percentage of successful kickstarters by month. When looking at the data outcomes based on goals, most kickstarters have goals under $5000. An alternative graph could just be focused on analyzing just these kickstarters and breaking down the information even further. Ex. The ranges could be in $500 intervals. 
 
+
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends
 ![Picture2](https://user-images.githubusercontent.com/100246124/155611332-ed375849-e813-4bdf-9f2f-bbe5c6b343c6.png)
